@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "测试"
+subtitle:   " \"Hello World, Hello Blog\""
+author:     "Hux"
+header-style: text
+catalog: true
+tags:
+    - 测试
+---
+
+> “Yeah It's on. ”
+
+
+Ifnofi 的 Blog 就这么开通了。
